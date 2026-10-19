@@ -1,0 +1,12 @@
+{
+  "name": "autobes-complete",
+  "version": "1.0.0",
+  "description": "أتوبيس كمبليت - لعبة جماعية",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
